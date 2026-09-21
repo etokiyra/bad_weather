@@ -67,9 +67,7 @@ Terminal escape codes are on by default. If you're piping output somewhere that 
 NO_COLOR=1 ./bad_weather Berlin
 ```
 
-## How the sass works
 
-Each metric — temperature, wind, precipitation, humidity, and the gap between actual and "feels like" temperature — has its own tiered set of one-liners, picked at random within the tier that matches current conditions. Extreme weather gets proportionally more extreme commentary. This is, as far as the author is aware, the correct way to build a weather app.
 
 ## License
 
