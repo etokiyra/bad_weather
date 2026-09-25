@@ -40,7 +40,7 @@ No API key, no config file, no accounts. Just weather, and consequences.
 ## Installation & running
 
 ```bash
-git clone git@github.com:etokiyra/bad_weather.git
+git clone https://github.com/etokiyra/bad_weather
 cd bad_weather
 go build -o bad_weather
 ```
